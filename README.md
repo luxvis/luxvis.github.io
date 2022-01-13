@@ -1,37 +1,23 @@
 ## Welcome to luxvis
 
-You can use the [editor on GitHub](https://github.com/luxvis/luxvis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+As a teacher I maintain this site so that my students can obtain the handouts and the work assigned in class. All handouts are hosted on google servers so be patient as it might take a little bit of time to download.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Important Information
+
+Any views or opinions represented on this website are personal and belong to the owner and do not represent those of people, institutions or organizations that the owner may or may not be associated with in professional or personal capacity , unless explicitly stated.  Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company , or individual.
+
+All content provided is for informational purposes only. The owner of this website makes no representations as to the accuracy or completeness of any information on this site or found by following any link on this site. The owner will not be liable for any errors or omissions in this information nor for the availability of this information. The owner will not be liable for any losses, injuries, or damages from the display or use of this information .
+
 
 ### Timetable
 
 This is my currrent timetable for school. [Timetable](https://docs.google.com/document/d/1Z0DsY1w-6cnhaK7cx7B6ioF7gwXUq8dUp3pv55dGY5Q/edit?usp=sharing){:target="_blank" rel="noopener"}
 
-```markdown
-Syntax highlighted code block
+### Current lessons-handouts
 
-# Header 1
-## Header 2
-### Header 3
+All handouts are hosted on google servers. Please click [current lessons-handouts]  (not active at this moment)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luxvis/luxvis.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please use the school communication systems to communicate with me.
