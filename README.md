@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Timetable
 
-This is my currrent timetable for school. [Timetable](https://docs.google.com/document/d/1Z0DsY1w-6cnhaK7cx7B6ioF7gwXUq8dUp3pv55dGY5Q/edit?usp=sharing)
+This is my currrent timetable for school. [Timetable](https://docs.google.com/document/d/1Z0DsY1w-6cnhaK7cx7B6ioF7gwXUq8dUp3pv55dGY5Q/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 ```markdown
 Syntax highlighted code block
