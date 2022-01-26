@@ -13,9 +13,9 @@ All content provided is for informational purposes only. The owner of this websi
 
 This is my currrent timetable for school. [Timetable](https://docs.google.com/document/d/1Z0DsY1w-6cnhaK7cx7B6ioF7gwXUq8dUp3pv55dGY5Q/edit?usp=sharing){:target="_blank" rel="noopener"}
 
-### Handouts
+### Handouts-Homework
 
-All handouts are hosted on google servers. Please click [current lessons-handouts]  (not active at this moment)
+All handouts are hosted on google servers. Please click [handouts-homework]  (https://docs.google.com/document/d/15bMobUTpwVFqBYr_rG3dr1O7AlWyhWZg_yUqcuYocj0/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 
 ### Support or Contact
