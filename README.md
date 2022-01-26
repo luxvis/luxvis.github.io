@@ -15,7 +15,7 @@ This is my currrent timetable for school. [Timetable](https://docs.google.com/do
 
 ### Handouts-Homework
 
-All handouts are hosted on google servers. Please click [handouts-homework]  (https://docs.google.com/document/d/15bMobUTpwVFqBYr_rG3dr1O7AlWyhWZg_yUqcuYocj0/edit?usp=sharing){:target="_blank" rel="noopener"}
+All handouts are hosted on google servers. Please click [handouts-homework](https://docs.google.com/document/d/15bMobUTpwVFqBYr_rG3dr1O7AlWyhWZg_yUqcuYocj0/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 
 ### Support or Contact
