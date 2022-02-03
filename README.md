@@ -19,7 +19,7 @@ All handouts are hosted on google servers. Please click [Handouts-Homework](http
 
 ### Older Handouts
 
-Year 12 Methods (VCE)-Pleae click [Year 12 Methods](https://docs.google.com/document/d/1VF6Kxup7Yoc2-7G54Lu6chUXbQup3SGthLapzioDFQQ/edit?usp=sharing){:target="_blank" rel="noopener"}
+Year 12 Methods (VCE)-Click here [Year 12 Methods](https://docs.google.com/document/d/1VF6Kxup7Yoc2-7G54Lu6chUXbQup3SGthLapzioDFQQ/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 ### Support or Contact
 
