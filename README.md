@@ -6,11 +6,10 @@ As a teacher I maintain this site so that my students can obtain the handouts an
 
 | Information     | Links       |  
 |:-------------|:------------------| 
-| Click for handouts       | Please click [Handouts-Homework](https://docs.google.com/document/d/15bMobUTpwVFqBYr_rG3dr1O7AlWyhWZg_yUqcuYocj0/edit?usp=sharing){:target="_blank" rel="noopener"} |  
+| Click for handouts       | Please click here [Handouts-Homework](https://docs.google.com/document/d/15bMobUTpwVFqBYr_rG3dr1O7AlWyhWZg_yUqcuYocj0/edit?usp=sharing){:target="_blank" rel="noopener"} |  
 | Year 12 Methods | Link coming soon  |  
 
 
-All handouts are hosted on google servers. Please click [Handouts-Homework](https://docs.google.com/document/d/15bMobUTpwVFqBYr_rG3dr1O7AlWyhWZg_yUqcuYocj0/edit?usp=sharing){:target="_blank" rel="noopener"}
 
 ### Important Information
 
