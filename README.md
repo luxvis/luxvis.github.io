@@ -6,7 +6,7 @@ As a teacher I maintain this site so that my students can obtain the handouts an
 
 | Information     | Links       |  
 |:-------------|:------------------| 
-| Click for handouts       | Please click here [Handouts-Homework](https://docs.google.com/document/d/15bMobUTpwVFqBYr_rG3dr1O7AlWyhWZg_yUqcuYocj0/edit?usp=sharing){:target="_blank" rel="noopener"} |  
+| Click for handouts       | Please click here [Handouts-Homework]([https://docs.google.com/document/d/15bMobUTpwVFqBYr_rG3dr1O7AlWyhWZg_yUqcuYocj0/edit?usp=sharing](https://docs.google.com/document/d/1nB_05qg7vJPmd7OBDr5WaIMbbLy7OA99UjhFxH3d1S4/edit?tab=t.0)){:target="_blank" rel="noopener"} |  
  
 
 
